@@ -18,9 +18,9 @@ The dataset was collected from CSV file chaining with the following script.
 
 Based on this analysis, the results are as follows: 
 
-![This is an image]() 
+![This is an image](https://github.com/tomoko1T/Election_Analysis/blob/main/Resources/ElectionResults.png) 
 
-The script details is found [GitHub Pages]( )
+The script detail is found [GitHub Pages](https://github.com/tomoko1T/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ## Election Audit Summary 
 
